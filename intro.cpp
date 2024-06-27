@@ -6,8 +6,6 @@ using namespace std;
 // creating a class 
 class Opeartion{
     // setuping a data member
-public:
-    float a, b;
 
     // creating all the method use for basic calculator
 
